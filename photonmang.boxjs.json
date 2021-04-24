@@ -1,0 +1,585 @@
+{
+  "id": "photonmang.app.sub",
+  "name": "photonmang应用订阅",
+  "author": "@photonmang",
+  "icon": "https://avatars3.githubusercontent.com/u/42340256?s=460&v=4",
+  "repo": "https://github.com/photonmang/quantumultX",
+  "apps": [
+    {
+      "id": "shareCode",
+      "name": "京东云互助码",
+      "keys": [
+	       "zd_shareCode1",
+	       "nc_shareCode1",
+	       "mc_shareCode1",
+	       "dd_shareCode1",
+	       "jx_shareCode1",
+	       "zd_shareCode2",
+	       "nc_shareCode2",
+	       "mc_shareCode2",
+	       "dd_shareCode2",
+	       "jx_shareCode2",
+	       "zd_shareCode3",
+	       "nc_shareCode3",
+	       "mc_shareCode3",
+	       "dd_shareCode3",
+	       "jx_shareCode3",
+      	       "zd_shareCode4",
+	       "nc_shareCode4",
+	       "mc_shareCode4",
+	       "dd_shareCode4",
+	       "jx_shareCode4",
+      	       "zd_shareCode5",
+	       "nc_shareCode5",
+	       "mc_shareCode5",
+	       "dd_shareCode5",
+	       "jx_shareCode5",
+      	       "zd_shareCode6",
+	       "nc_shareCode6",
+	       "mc_shareCode6",
+	       "dd_shareCode6",
+	       "jx_shareCode6",
+      	       "zd_shareCode7",
+	       "nc_shareCode7",
+	       "mc_shareCode7",
+	       "dd_shareCode7",
+	       "jx_shareCode7",
+      	       "zd_shareCode8",
+	       "nc_shareCode8",
+	       "mc_shareCode8",
+	       "dd_shareCode8",
+	       "jx_shareCode8",
+      	       "zd_shareCode9",
+	       "nc_shareCode9",
+	       "mc_shareCode9",
+	       "dd_shareCode9",
+	       "jx_shareCode9",
+      	       "zd_shareCode10",
+	       "nc_shareCode10",
+	       "mc_shareCode10",
+	       "dd_shareCode10",
+	       "jx_shareCode10",
+      	       "zd_shareCode11",
+	       "nc_shareCode11",
+	       "mc_shareCode11",
+	       "dd_shareCode11",
+	       "jx_shareCode11",
+      	       "zd_shareCode12",
+	       "nc_shareCode12",
+	       "mc_shareCode12",
+	       "dd_shareCode12",
+	       "jx_shareCode12"
+      ],
+      "settings": [
+        {
+          "id": "zd_shareCode1",
+          "name": "账号一的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode1",
+          "name": "账号一的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode1",
+          "name": "账号一的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode1",
+          "name": "账号一的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode1",
+          "name": "账号一的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode1",
+          "name": "账号一的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },	
+	{
+          "id": "zd_shareCode2",
+          "name": "账号二的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode2",
+          "name": "账号二的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode2",
+          "name": "账号二的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode2",
+          "name": "账号二的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode2",
+          "name": "账号二的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },        
+	{
+          "id": "joy_shareCode2",
+          "name": "账号二的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },	
+	{
+          "id": "zd_shareCode3",
+          "name": "账号三的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode3",
+          "name": "账号三的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode3",
+          "name": "账号三的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode3",
+          "name": "账号三的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode3",
+          "name": "账号三的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+        {
+          "id": "joy_shareCode3",
+          "name": "账号3的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        }	,
+	{
+          "id": "zd_shareCode4",
+          "name": "账号4的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode4",
+          "name": "账号4的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode4",
+          "name": "账号4的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode4",
+          "name": "账号4的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode4",
+          "name": "账号4的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode4",
+          "name": "账号4的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode5",
+          "name": "账号5的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode5",
+          "name": "账号5的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode5",
+          "name": "账号5的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode5",
+          "name": "账号5的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode5",
+          "name": "账号5的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode5",
+          "name": "账号5的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode6",
+          "name": "账号6的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode6",
+          "name": "账号6的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode6",
+          "name": "账号6的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode6",
+          "name": "账号6的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode6",
+          "name": "账号6的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode6",
+          "name": "账号6的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode7",
+          "name": "账号7的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode7",
+          "name": "账号7的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode7",
+          "name": "账号7的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode7",
+          "name": "账号7的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode7",
+          "name": "账号7的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode7",
+          "name": "账号7的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode8",
+          "name": "账号8的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode8",
+          "name": "账号8的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode8",
+          "name": "账号8的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode8",
+          "name": "账号8的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode8",
+          "name": "账号8的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode8",
+          "name": "账号8的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode9",
+          "name": "账号9的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode9",
+          "name": "账号9的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode9",
+          "name": "账号9的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode9",
+          "name": "账号9的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode9",
+          "name": "账号9的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode9",
+          "name": "账号9的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode10",
+          "name": "账号10的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode10",
+          "name": "账号10的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode10",
+          "name": "账号10的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode10",
+          "name": "账号10的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode10",
+          "name": "账号10的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode10",
+          "name": "账号10的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode11",
+          "name": "账号11的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode11",
+          "name": "账号11的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode11",
+          "name": "账号11的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode11",
+          "name": "账号11的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode11",
+          "name": "账号11的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode11",
+          "name": "账号11的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        },
+	{
+          "id": "zd_shareCode12",
+          "name": "账号12的种豆得豆",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的种豆得豆互助码"
+        },
+        {
+          "id": "nc_shareCode12",
+          "name": "账号12的京东农场",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东农场码"
+        },
+        {
+          "id": "mc_shareCode12",
+          "name": "账号12的京东萌宠",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东萌宠码"
+        },
+        {
+          "id": "dd_shareCode12",
+          "name": "账号12的东东工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的东东工厂码"
+        },
+        {
+          "id": "jx_shareCode12",
+          "name": "账号12的京喜工厂",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京喜工厂码"
+        },
+	{
+          "id": "joy_shareCode12",
+          "name": "账号12的京东CrazyJoy",
+          "val": "",
+          "type": "text",
+          "desc": "此处请填写你的京东CrazyJoy码"
+        }
+      ],
+      "author": "@photonmang",
+      "repo": "https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/shareCode.js",
+      "script": "https://github.com/photonmang/quantumultX",
+      "icons": [ "https://raw.githubusercontent.com/Orz-3/mini/master/jd.png","https://raw.githubusercontent.com/Orz-3/task/master/jd.png"]
+    }
+  ]
+}
